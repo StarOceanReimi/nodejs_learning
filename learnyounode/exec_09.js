@@ -25,6 +25,3 @@ urls.forEach(function(url, index){
         });
     });
 });
-//for(var i=0; i<result_queue.length; i++) {
-//    console.log(result_queue[i]);
-//}
